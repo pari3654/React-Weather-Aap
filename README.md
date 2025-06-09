@@ -1,5 +1,4 @@
 
-A simple **React** weather application that allows users to search for cities and get current weather data.
 
 ## About
 
